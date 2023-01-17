@@ -1,0 +1,33 @@
+@import "./common.css";
+@import "./footer.css";
+@import "./header.css";
+
+.logoo {
+  display: flex;
+}
+
+.river {
+  width: 33%;
+  margin-top: 75px;
+  text-align: center;
+}
+.max {
+  background-color: #f5f5f5;
+  margin-top: -5px;
+  margin-left: 10px;
+  margin-right: 10px;
+ padding-bottom: 82px;
+}
+
+.bro {
+  margin: 25px 0px;
+}
+
+.river p {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+
+  color: #6f2cff;
+}
